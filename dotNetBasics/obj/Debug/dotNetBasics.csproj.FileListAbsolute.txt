@@ -1,0 +1,8 @@
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\bin\Debug\dotNetBasics.exe.config
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\bin\Debug\dotNetBasics.exe
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\bin\Debug\dotNetBasics.pdb
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\obj\Debug\dotNetBasics.csproj.AssemblyReference.cache
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\obj\Debug\dotNetBasics.csproj.SuggestedBindingRedirects.cache
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\obj\Debug\dotNetBasics.csproj.CoreCompileInputs.cache
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\obj\Debug\dotNetBasics.exe
+C:\Users\91720\Desktop\Project3\dotNetBasics\dotNetBasics\obj\Debug\dotNetBasics.pdb
